@@ -8,3 +8,4 @@
   <link rel='shortcut icon' type='image/x-icon' href='assets/img/123456.jfif' />
 
     <link rel="stylesheet" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
