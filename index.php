@@ -28,7 +28,7 @@
                     <div class="row ">
                       <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 pr-0 pt-3">
                         <div class="card-content">
-                          <h4 class="font-15 this">Welcome Admin!</h4>
+                          <h4 class="font-15 this">Welcome Qasim!</h4>
                           <h6 class="mb-3 font-18 that">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt .
 </h6>
                          
